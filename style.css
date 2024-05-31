@@ -1,0 +1,31 @@
+.heading{
+    font-size: 20px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+body{
+    background: linear-gradient(90deg, rgba(0,69,255,1) 0%, rgba(231,0,255,1) 100%);
+    color:rgb(255, 200, 0);
+}
+span{
+    font-size: 30px;
+}
+#camera,#result{
+    border:2px inset aquamarine;
+    width: 350px;
+    height: 300px;
+}
+.emotion_name, .emoji{
+    font-size: 40px;
+}
+#result_emotion_name, #result_emotion_name2{
+    color: rgb(255, 225, 0);
+}
+label{
+    font-size: 15px;
+    color: rgb(255, 130, 222);
+    padding: 5px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+}
